@@ -1,3 +1,4 @@
+#Συνδεσμοι ιστοσελίδων για την ευρεση των στατιστικών των βαθμολογιων των παννεληνίων εξετάσεων
 https://aeitei.gr/statistika-epidoseon.php?year=2022&ypourgio=pedias&katefthinsi=2&mathima=3
 https://aeitei.gr/panellinies-mathimata.php?katefthinsi=1&mathima=1&epilogis=0&year=2024
 https://aeitei.gr/panellinies-mathimata.php?katefthinsi=1&mathima=2&epilogis=0&year=2024
@@ -16,7 +17,7 @@ https://www.minedu.gov.gr/news/49433-12-07-21-ta-statistika-ton-panelladikon-se-
 https://www.minedu.gov.gr/rss/29110-03-07-17-statistika-stoixeia-ton-vathmologion-ton-panelladikon-eksetaseon-2017-minyma-tou-ypourgoy-paideias-erevnas-kai-thriskevmaton
 https://www.minedu.gov.gr/anazitisi-archive/statistika-stoixeia-panelladikwn
 
-
+#Συνδεσμοι ιστοσελίδων για την ευρεση των βάσεων εισαγωγής στα πανεπιστήμικα τμήματα
 http://www.emark.teicrete.gr/emark/vaseis-panelladikwn-2010.aspx
 https://www.minedu.gov.gr/geniko-lykeio-m/anakoinwseis-gel/56079-27-07-23-a-5
 https://www.minedu.gov.gr/baseis-an/43010-27-08-19-oi-vaseis-kai-ta-sygkritika-ton-vaseon-2
