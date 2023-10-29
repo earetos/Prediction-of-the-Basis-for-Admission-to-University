@@ -82,7 +82,7 @@ model_aprox.compile(optimizer="adam", loss="mae",metrics=['mae'])
 monitor_aprox = EarlyStopping(monitor='val_mae', patience=50, 
                     verbose=0, mode='min', restore_best_weights=True)
 # Train model
-model_aprox.fit(X, y, validation_split = 0.2, callbacks=[monitor_aprox],verbose=0,epochs=2000, batch_size=3)
+model_aprox.fit(X, y, validation_split = 0.2,  shuffle=True, callbacks=[monitor_aprox],verbose=0,epochs=2000, batch_size=3)
        
         
 #prediction
